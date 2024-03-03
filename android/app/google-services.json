@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "47125526230",
+    "firebase_url": "https://vidyagram-efb3e-default-rtdb.firebaseio.com",
+    "project_id": "vidyagram-efb3e",
+    "storage_bucket": "vidyagram-efb3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47125526230:android:da5d81a4b4baaaf5df7b77",
+        "android_client_info": {
+          "package_name": "com.mycompany.signuppage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfN_gvQ4X3GiQiUK9ZrJlt5RDCRlRHUWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47125526230:android:8fd504964442b191df7b77",
+        "android_client_info": {
+          "package_name": "com.mycompany.vidyagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfN_gvQ4X3GiQiUK9ZrJlt5RDCRlRHUWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
